@@ -7,7 +7,7 @@
 * The main objective of this project is to save power consumption and for development of smart cities where resources are utilized properly.
 * This project is about Smart light,light will turn on while vehiclhe is passing through.
 * This method can be used in Parking Systems in Offices/Apartments where people don't move frequently to save the power consumption.
-* The same method is can also be used in Building ###### SMART_TRAFFIC_SIGNALS.
+* The same method can also be used in Building SMART_TRAFFIC_SIGNALS.
 
 ## Components Required
 
